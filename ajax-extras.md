@@ -1,4 +1,4 @@
-# AJAX Extra features
+# AJAX 额外功能
 
 - [加载指示器](#loader-stripe)
 - [表单验证](#ajax-validation)
